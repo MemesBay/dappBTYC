@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd7f1Ec7244D41920Df406fca266560f98501CeE8",
+  "SCAN_LINK": "https://cronoscan.com/address/0xd7f1ec7244d41920df406fca266560f98501cee8",
+  "NETWORK": {
+    "NAME": "Cronos",
+    "SYMBOL": "Cro",
+    "ID": 25
+  },
+  "NFT_NAME": "ElonCro",
+  "SYMBOL": "Elon",
+  "MAX_SUPPLY": 2011,
+  "WEI_COST": 65000000000000000000,
+  "DISPLAY_COST": 65.00,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "CroSea",
+  "MARKETPLACE_LINK": "https://crosea.io",
+  "SHOW_BACKGROUND": true
+}
